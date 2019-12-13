@@ -1,0 +1,22 @@
+{
+    "Merchants": [
+        "Airtel-v1-index_bundle.js",
+        "BigBasket-v1-index_bundle.js",
+        "Dream11-v1-index_bundle.js",
+        "Goibibo-v1-index_bundle.js",
+        "Grofers-v1-index_bundle.js",
+        "Jio-v1-index_bundle.js",
+        "Ola-v1-index_bundle.js",
+        "Redbus-v1-index_bundle.js",
+        "SpiceJet-v1-index_bundle.js",
+        "StockRequestWaitingScreen-v1-index_bundle.js",
+        "StockVpaScreen-v1-index_bundle.js",
+        "Stock-v1-index_bundle.js",
+        "StockAddCard-v1-index_bundle.js",
+        "StockVerifyNumber-v1-index_bundle.js",
+        "StockEntryScreen-v1-index_bundle.js",
+        "StockWalletEntry-v1-index_bundle.js",
+        "StockPaymentSucessful-v1-index_bundle.js",
+        "Vodafone-v1-index_bundle.js"
+    ]
+}
